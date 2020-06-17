@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
                 </title>
             </head>
             <body>
-                <h1>Uttaranchal University </h1>
+                <h1>Uttaranchal Institute of Management </h1>
                 <ul> 
                  <li>Project 1
                  <li> Project 2
